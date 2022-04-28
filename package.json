@@ -1,0 +1,25 @@
+{
+  "name": "rxjs-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bruno-Cerqueira/rxjs-practice.git"
+  },
+  "keywords": [
+    "Study"
+  ],
+  "author": "Augusto, Felipe, Bruno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bruno-Cerqueira/rxjs-practice/issues"
+  },
+  "homepage": "https://github.com/Bruno-Cerqueira/rxjs-practice#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
