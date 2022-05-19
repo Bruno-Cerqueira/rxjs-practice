@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon ./observer.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   },
   "homepage": "https://github.com/Bruno-Cerqueira/rxjs-practice#readme",
   "dependencies": {
+    "nodemon": "^2.0.16",
     "rxjs": "^7.5.5"
   }
 }
