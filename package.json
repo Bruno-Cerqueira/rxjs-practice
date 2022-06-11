@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "test",
-    "start": "nodemon ./observer.js"
+    "start": "nodemon ./subject.js --quiet"
   },
   "repository": {
     "type": "git",
